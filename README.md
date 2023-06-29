@@ -1,7 +1,7 @@
 # AWS-Rekognition
 ## Cerate a IAM role with following policies.
 ![Alt text](assets/image.png)
-## Attach role to EC2 instance.
+## Create a EC2 instance and attach role to EC2 instance.
 ![Alt text](assets/image-1.png)
 ## Login with SSH EC2 instance and install `nodejs`
 ### Add nodejs package to yum repo. 
@@ -22,4 +22,7 @@
 `http://<ServerPublicIP>:3000`
 ![Alt text](assets/image-9.png)
 ## Upload a image and check the result.
+### with out face
 ![Alt text](assets/image-10.png)
+### with face
+![Alt text](assets/image-11.png)
