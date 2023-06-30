@@ -1,5 +1,5 @@
 # AWS-Rekognition
-## Cerate a IAM role with following policies.
+## Create a IAM role with following policies.
 ![Alt text](assets/image.png)
 ## Create a EC2 instance and attach role to EC2 instance.
 ![Alt text](assets/image-1.png)
@@ -12,7 +12,7 @@
 ![Alt text](assets/image-4.png)
 ## Run the following commands
 ![Alt text](assets/image-5.png)
-## Clone the code and execute folloeing commands.
+## Clone the code and execute following commands.
 ![Alt text](assets/image-6.png)
 ## Install npm packages using `npm install` command.
 ![Alt text](assets/image-7.png)
@@ -22,7 +22,7 @@
 `http://<ServerPublicIP>:3000`
 ![Alt text](assets/image-9.png)
 ## Upload a image and check the result.
-### with out face
+### With out face
 ![Alt text](assets/image-10.png)
-### with face
+### With face
 ![Alt text](assets/image-11.png)
